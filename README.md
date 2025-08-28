@@ -1,4 +1,4 @@
-
+![SNIper Logo](SNIper_logo.png)
 **SNIper** (Server Name Indication + Sniper) is a Blue Team tool designed to detect **Domain Fronting** by correlating **DNS answers** with **TLS SNI fields**.  
 It supports both **live capture** and **offline PCAP analysis**, with output in CSV, JSON, and NDJSON.
 
