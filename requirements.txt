@@ -1,0 +1,12 @@
+# ==============================
+# SNIper - Requirements
+# ==============================
+
+# Core dependencies
+pyfiglet==1.0.4
+pyshark==0.6
+rich==14.1.0
+requests==2.32.3
+
+# Optional (for ASN enrichment with MaxMind GeoLite2 DB)
+geoip2==4.8.0
